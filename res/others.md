@@ -23,4 +23,11 @@ Difficulty in capturing long range dependencies:
 *despite* or *due to* are related to *The trip* but for a model (i.e. RNN) it is hard to produce probability of such a distant dependency. 
  
 
-Technically, The effect of deeper (later) layers on change in the weights of shallower (earlier) layers is negligible or ***vanishing*
+Technically, 
+
+The effect of deeper (later) layers on change in the weights of shallower (earlier) layers is negligible or **vanishing**
+
+The derivative decreases exponentially as function of the number of layer.
+
+### Exploding Gradients
+The derivative increases exponentially as function of the number of layer.
