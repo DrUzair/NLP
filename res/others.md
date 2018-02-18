@@ -1,3 +1,5 @@
+# Convolutional Neural Networks
+
 * [CNN for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp)
 
 # Recurrent Neural Networks
@@ -31,3 +33,7 @@ The derivative decreases exponentially as function of the number of layer.
 
 ### Exploding Gradients
 The derivative increases exponentially as function of the number of layer.
+
+# LSTM Networks
+
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
