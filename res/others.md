@@ -34,6 +34,10 @@ The derivative decreases exponentially as function of the number of layer.
 ### Exploding Gradients
 The derivative increases exponentially as function of the number of layer.
 
-# LSTM Networks
+## Gated Recurrent Units
+
+## LSTM Networks
 
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+## Bidirectional RNNs
