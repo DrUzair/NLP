@@ -16,11 +16,11 @@
 ### Vanishing Gradients
 Difficulty in capturing long range dependencies:
 
-*The trip* to Niagara Falls was a pleasent one *despite* cold weather.
+*The trip* to Niagara Falls, pleasent despite cold weather, was smooth.
 
-*The trip* to Niagara Falls was a pleasent one *due to* cold weather.
+*The trips* to Niagara Falls, pleasent despite cold weather, were smooth.
 
-*despite* or *due to* are related to *The trip* but for a model (i.e. RNN) it is hard to produce probability of such a distant dependency. 
+*The trip* or *The trips* ? : for a model (i.e. RNN) it is hard to produce probability of such a distant dependency. 
  
 
 Technically, 
