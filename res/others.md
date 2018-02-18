@@ -41,3 +41,4 @@ The derivative increases exponentially as function of the number of layer.
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ## Bidirectional RNNs
+
