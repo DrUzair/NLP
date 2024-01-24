@@ -1,13 +1,3 @@
-import torch
-from torch import nn
-from torch.nn import functional as F
-
-''' Look at the very last character to generate next
-    @Author: Uzair Ahmad
-    2022
-'''
-
-
 class BigramLanguageModel(nn.Module):
     def __init__(self):
         super().__init__()
@@ -34,12 +24,12 @@ class BigramLanguageModel(nn.Module):
             ce_loss = F.cross_entropy(token_rep, targets)
         return in_ids_emb, ce_loss
 
-    def fit(self, train_iters=100, eval_iters=10):
-        optimizer = torch.optim.Adam(self.parameters(), lr=.01)
+    def fit(self, train_iters=100, eval_iters=10, lr=0.001):
+        optimizer = torch.optim.Adam(self.parameters(), lr=lr)
         for iteration in range(train_iters):
-            if iteration % (train_iters // 20) == 0:
+            if iteration % eval_iters == 0:
                 avg_loss = self.eval_loss(eval_iters)
-                print(f"iter {iter} train {avg_loss['train']} val {avg_loss['eval']}")
+                print(f"iter {iteration} train {avg_loss['train']} val {avg_loss['eval']}")
             inputs, targets = self.get_batch(split='train')
             _, ce_loss = self(inputs, targets)
             optimizer.zero_grad(set_to_none=True)  # clear gradients of previous step
@@ -105,35 +95,17 @@ class BigramLanguageModel(nn.Module):
         # inputs_batch is
         return inputs_batch, targets_batch
 
-
-text = 'a quick brown fox jumps of the lazy dog.\n ' \
-       'a quick brown fox jumps of the lazy dog.\n' \
-       'a quick brown fox jumps of the lazy dog.\n' \
-       'a quick brown fox jumps of the lazy dog.\n' \
-       'a quick brown fox jumps of the lazy dog.'
-
-# text = 'go long ago longer a go go go go long ago longer go go go go long ago longer go go go'
+text = 'a quick brown fox jumps over the lazy dog.\n ' \
+       'lazy dog and a quick brown fox.\n' \
+       'a dog is lazy and fox is quick.\n' \
+       'fox jumps and dog is lazy.\n' \
+       'dog is lazy and fox is brown.'
 
 model = BigramLanguageModel()
 model = model.to(model.device)
 model.prep(text)
+model_parameters = filter(lambda p: p.requires_grad, model.parameters())
+print(f'params {sum([np.prod(p.size()) for p in model_parameters])}')
 input_batch, output_batch = model.get_batch(split='train')
 _, _ = model(input_batch, output_batch)
-model.fit()
-outputs = model.generate(context_tokens=torch.zeros((1, 1), dtype=torch.long,
-                         device=model.device), max_new_tokens=100)
-print(outputs)
-
-
-def look_inside():
-    import numpy as np
-    for token in model.vocab:
-        token_code = model.encoder(token)
-        # print('token ', token,'token code ', token_code)
-        token_rep = model.token_embeddings_table(torch.tensor(token_code))
-        tr = token_rep.detach().numpy()[0].tolist()
-        # print('token_rep', tr)
-        next_token_prob = np.round(F.softmax(token_rep, dim=1).detach().numpy()[0], 2).tolist()
-        # print(next_token_prob)
-        d = [(t, round(next_token_prob[i], 2)) for i, t in enumerate(model.vocab)]
-        print(token, d)
+model.fit(train_iters=10000, eval_iters=500, lr=0.001)
