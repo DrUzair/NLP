@@ -109,3 +109,7 @@ print(f'params {sum([np.prod(p.size()) for p in model_parameters])}')
 input_batch, output_batch = model.get_batch(split='train')
 _, _ = model(input_batch, output_batch)
 model.fit(train_iters=10000, eval_iters=500, lr=0.001)
+
+outputs = model.generate(context_tokens=torch.zeros((1, 1), dtype=torch.long,
+                         device=model.device), max_new_tokens=100)
+print(outputs)
