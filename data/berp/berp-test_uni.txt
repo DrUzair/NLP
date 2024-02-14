@@ -1,0 +1,100 @@
+<s> a vegetarian meal </s>
+<s> about ten miles </s>
+<s> and i'm willing to drive ten miles </s>
+<s> and this will be for dinner </s>
+<s> are any of these restaurants open for breakfast </s>
+<s> are there russian restaurants in berkeley </s>
+<s> between fifteen and twenty dollars </s>
+<s> can you at least list the nationality of these restaurants </s>
+<s> can you give me more information on viva taqueria  </s>
+<s> dining </s>
+<s> display sizzler </s>
+<s> do you have indonesian food  </s>
+<s> do you know any pizza places </s>
+<s> doesn't matter </s>
+<s> eat on a weekday </s>
+<s> eight dollars </s>
+<s> expensive </s>
+<s> five miles </s>
+<s> give me the list of restaurants in berkeley  </s>
+<s> how about italian and quite expensive is fine </s>
+<s> how about the blue nile it sounds very good could you show me a menu </s>
+<s> how far is the international house cafe from the international computer science institute </s>
+<s> i don't want to go outside of the bay area </s>
+<s> i like to eat deli food on fridays </s>
+<s> i wanna spend between six and ten dollars </s>
+<s> i want lunch on tuesday  </s>
+<s> i want pizza </s>
+<s> i want restaurants anywhere </s>
+<s> i want something for breakfast any day of the week </s>
+<s> i want to eat in the elmwood </s>
+<s> i want to eat junk food  </s>
+<s> i want to go to the restaurant in the night </s>
+<s> i want to know more about la tour eiffel </s>
+<s> i want to walk to the restaurant  </s>
+<s> i will pay a hundred dollars for dinner </s>
+<s> i would like a place within ten minutes from icsi </s>
+<s> i would like to eat dessert </s>
+<s> i would like to eat on friday  </s>
+<s> i would like to go to an oriental restaurant  </s>
+<s> i'd like a cambodian restaurant  </s>
+<s> i'd like to drink some wine  </s>
+<s> i'd like to have some ice cream  </s>
+<s> i'd like to know more about guerrero's  </s>
+<s> i'd like uh mexican food under five dollars  </s>
+<s> i'm looking for a romantic restaurant for dinner </s>
+<s> i'm willing to travel seven minutes from icsi </s>
+<s> inexpensive not expensive </s>
+<s> information on sujatha's </s>
+<s> is there an italian restaurant under fifteen dollars </s>
+<s> it does not have to be near here  </s>
+<s> it need not be a low cost restaurant  </s>
+<s> it should cost less than seven dollars </s>
+<s> let's start again </s>
+<s> let's start over </s>
+<s> let's start over </s>
+<s> on sunday or saturday night </s>
+<s> please tell me more about jupiter </s>
+<s> shilpa </s>
+<s> show me the list again </s>
+<s> show the list of the restaurants please </s>
+<s> start over </s>
+<s> tell me more about oriental food to go </s>
+<s> tell me the best japanese restaurant anywhere </s>
+<s> the day after tomorrow </s>
+<s> the distance should be less than twenty minutes away from the icsi </s>
+<s> the price could be up to twenty dollars  </s>
+<s> three dollars </s>
+<s> tomorrow </s>
+<s> tonight  </s>
+<s> uh i said i don't wanna spend more than twenty dollars </s>
+<s> uh i want a place that serves liquor </s>
+<s> uh i'm willing to travel about an hour from icsi </s>
+<s> what about la tour eiffel </s>
+<s> what are my choices </s>
+<s> what is the best way to go to gilman and peralta </s>
+<s> what's your name </s>
+<s> where is mcdonald's </s>
+<s> actually i want a cheap restaurant </s>
+<s> american food californian food </s>
+<s> any american restaurant would be okay </s>
+<s> any distance is fine  </s>
+<s> at saturday  </s>
+<s> beef </s>
+<s> breakfast or lunch </s>
+<s> can you give me some recommendation which one serves better sushi </s>
+<s> cheap cheap cheap  </s>
+<s> computer alright i'm really hungry today for some thai food and uh i've got about three and half dollars to spend </s>
+<s> could i see the menu for cafe fanny </s>
+<s> dinner </s>
+<s> display all the restaurants in berkeley please  </s>
+<s> distance is no issue  </s>
+<s> do you know mel's restaurant </s>
+<s> fifty dollars  </s>
+<s> gimme information on maharani </s>
+<s> give me additional information about shilpa </s>
+<s> give me more information on sushi-sho </s>
+<s> how about buddhist food </s>
+<s> i don't care how much it costs </s>
+<s> i intend to spend less than ten dollar  </s>
+<s> i like a cheap place  </s>
