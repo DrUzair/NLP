@@ -34,11 +34,11 @@ $P(w | z = j) = \frac{{\sum_{i=1}^{N} I(z_i = j \text{ and } w_i = w)}}{{\sum_{i
 Where:
 
 - $P(z_i = j | w_i)$ represents the probability that word $w_i$ belongs to sense $j$,
-- $P(w_i | z_i = j) $ represents the probability of observing word $w_i$ given sense $j$,
-- $P(z_i = j) $ represents the prior probability of sense $j$,
-- $K $ is the total number of senses,
-- $N $ is the total number of word instances,
-- $I(\cdot) $ is the indicator function.
+- $P(w_i | z_i = j)$ represents the probability of observing word $w_i$ given sense $j$,
+- $P(z_i = j)$ represents the prior probability of sense $j$,
+- $K$ is the total number of senses,
+- $N$ is the total number of word instances,
+- $I(\cdot)$ is the indicator function.
 
 **Finally:**
 Word Sense Induction using the EM algorithm offers a promising approach to uncovering the nuanced meanings of words in natural language text. By leveraging distributional patterns and latent variables, EM enables the automatic discovery of word senses without relying on predefined sense inventories. As NLP applications continue to advance, the insights gained from WSI contribute to more robust and accurate language understanding systems.
