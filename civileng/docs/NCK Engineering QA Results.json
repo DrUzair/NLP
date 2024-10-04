@@ -1,0 +1,102 @@
+[
+  {
+    "Question": "Which standard should cast-in-place concrete work comply with?",
+    "Answer": "OBC 2012, CAN/CSA-A23.1, CAN/CSA-A23.2",
+    "GenAnswer": "The cast-in-place concrete work should comply with the following standard: OBC 2012 designated Editions of CAN/CSA-A23.1 and testing in accordance with CAN/CSA-A23.2."
+  },
+  {
+    "Question": "What building code and regulations must be followed for construction projects?",
+    "Answer": "Ontario Building Code 2012, The Occupational Health and Safety Act",
+    "GenAnswer": "Based on the provided context information, the building code that must be followed for construction projects is the Ontario Building Code. This is specified in the sentence: 'Testing shall meet the requirements of the Ontario Building Code.'"
+  },
+  {
+    "Question": "What reference materials should be kept in the project field office?",
+    "Answer": "CAN/CSA-A23, CAN/CSA-A23.2, Reinforcing Steel Institute of Ontario - Manual of Standard Practice, CAN/CSA-S269.3",
+    "GenAnswer": "Based on the provided context information, the reference materials that should be kept in the project field office include: 1. Concrete Pour Records 2. Formwork Removal Dates 3. Founding Elevations and Variations 4. Coordination Data 5. Concreting Schedule 6. Concrete Samples and Test Cylinders."
+  },
+  {
+    "Question": "What should be provided to the consultant before placing concrete?",
+    "Answer": "Details of the proposed concrete mix, proportions of materials, certification of compressive strength, slump, air-entrained content, etc.",
+    "GenAnswer": "Before placing concrete, the following should be provided to the consultant: 1. Approval 2. Schedule 3. Samples"
+  },
+  {
+    "Question": "What organization's seal of quality is required for ready-mixed concrete?",
+    "Answer": "Ready-Mixed Concrete Association of Ontario's Special Quality Concrete seal",
+    "GenAnswer": "The required seal of quality for ready-mixed concrete is from the 'Ready-Mixed Concrete Association of Ontario.'"
+  },
+  {
+    "Question": "How much specialized experience should the organization responsible for floor finishing have?",
+    "Answer": "At least 5 years of specialized experience",
+    "GenAnswer": "The organization responsible for floor finishing should have at least 5 years of specialized experience."
+  },
+  {
+    "Question": "What cement type should be used for concrete materials?",
+    "Answer": "Normal Portland cement to CAN/CSA-A5, Type 10",
+    "GenAnswer": "Based on the provided context information, the cement type that should be used for concrete materials is: Normal Portland cement to CAN/CSA-A5, Type 10."
+  },
+  {
+    "Question": "What is the maximum size of coarse aggregate for toppings?",
+    "Answer": "12 mm",
+    "GenAnswer": "Based on the provided context information, the maximum size of coarse aggregate for toppings is 12 mm."
+  },
+  {
+    "Question": "What type of admixture should be used for corrosion inhibition?",
+    "Answer": "DCI or MCI concrete admixtures as per CAN/CSA-S413",
+    "GenAnswer": "Based on the provided context information, the type of admixture that should be used for corrosion inhibition is either DCI or MCI concrete admixtures as per CAN/CSA-S413 recommendations."
+  },
+  {
+    "Question": "What is the minimum strength of premixed grout at 28 days?",
+    "Answer": "40 MPa",
+    "GenAnswer": "The context information provided does not specify the minimum strength of premixed grout at 28 days. Therefore, the minimum strength of premixed grout at 28 days cannot be determined."
+  },
+  {
+    "Question": "What type of water-stop material should be used?",
+    "Answer": "Polyvinyl Chloride (PVC) to CSGB 41-GP-35M, Types 1 and 3",
+    "GenAnswer": "Based on the provided context information, the type of water-stop material that should be used is: Polyvinyl Chloride, PVC."
+  },
+  {
+    "Question": "What is the required curing-sealing compound for floor surfaces?",
+    "Answer": "Clear lacquer type liquid conforming to ASTM C309",
+    "GenAnswer": "Based on the provided context information, the required curing-sealing compounds for floor surfaces are: 1. Masterseal from Master Builders Co. Ltd. 2. Clear Florseal from Sika Canada."
+  },
+  {
+    "Question": "What is the minimum cement content required for vehicular traffic slabs?",
+    "Answer": "320 kg/m³",
+    "GenAnswer": "Based on the provided context information, the minimum cement content required for vehicular traffic slabs is 320 kg/m³."
+  },
+  {
+    "Question": "What is the maximum slump for parking structures?",
+    "Answer": "40 mm",
+    "GenAnswer": "The maximum slump for parking structures, as specified in the provided context information, is 40 mm."
+  },
+  {
+    "Question": "At what temperature should concrete be delivered when outdoor temperature is below +5°C?",
+    "Answer": "Between +13°C and +27°C",
+    "GenAnswer": "The concrete should be delivered at a temperature between +13°C and +27°C whenever the outdoor temperature is less than +5°C."
+  },
+  {
+    "Question": "What method should be used to cure concrete surfaces not in contact with forms?",
+    "Answer": "Wet curing methods, such as sprinkling or absorptive coverings",
+    "GenAnswer": "Based on the provided context information, the methods to cure concrete surfaces not in contact with forms are: 1. Pounding or continuous sprinkling 2. Application of absorptive covering kept continuously wet 3. Application of fog spray followed by a covering of curing paper lapped 150 mm 4. Application of a curing-sealing compound, where permitted."
+  },
+  {
+    "Question": "How soon should saw-cut joints be made in slabs on grade?",
+    "Answer": "As soon as the concrete can be cleanly cut, after shrinkage cracks form",
+    "GenAnswer": "Based on the provided context, saw-cut joints in slabs on grade should be made 'as soon as the concrete can be cleanly cut and after shrinkage cracks can form.'"
+  },
+  {
+    "Question": "What is the maximum allowable time to place concrete after mixing?",
+    "Answer": "30 minutes",
+    "GenAnswer": "The maximum allowable time to place concrete after mixing is 30 minutes."
+  },
+  {
+    "Question": "What must be recorded for poured concrete items?",
+    "Answer": "Date, location of pour, quality, air temperature, and test samples",
+    "GenAnswer": "To answer the query based on the provided context information, the following must be recorded for poured concrete items: Date, Location of pour, Quality, Air temperature, and Test samples."
+  },
+  {
+    "Question": "What standard applies for concrete testing and sample curing?",
+    "Answer": "CAN/CSA-A23.2",
+    "GenAnswer": "The standard that applies for concrete testing and sample curing is the applicable CSA Standards."
+  }
+]
