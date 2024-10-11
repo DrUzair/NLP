@@ -1,0 +1,142 @@
+[
+  {
+    "Q1": "What cement are we using for this concrete?",
+    "Q2": "Which type of cement is specified here?",
+    "Q3": "What’s the cement type mentioned for cast-in-place?",
+    "Q4": "Can you tell me the cement type we're using for this job?",
+    "Q5": "What cement should we be using as per the specs?",
+    "CorrectAnswer": "The specified cement is Normal Portland cement, Type 10, as per CAN/CSA-A5. It's suitable for general construction use.",
+    "Keywords": ["Normal Portland cement", "Type 10", "CAN/CSA-A5"],
+    "PageNumber": 4
+  },
+  {
+    "Q1": "What kind of aggregate is specified for this concrete?",
+    "Q2": "Which aggregate type is required for this mix?",
+    "Q3": "What’s the specified aggregate for cast-in-place concrete?",
+    "Q4": "Can you confirm the type of coarse aggregate we need?",
+    "Q5": "What aggregate is required as per the document?",
+    "CorrectAnswer": "The coarse aggregate specified is crushed stone or gravel to CAN/CSA-A23.1, suitable for NBC type N concrete. Maximum size is 20 mm, except 12 mm for toppings.",
+    "Keywords": ["crushed stone", "gravel", "CAN/CSA-A23.1", "aggregate"],
+    "PageNumber": 4
+  },
+  {
+    "Q1": "What is the maximum water-cement ratio for concrete exposed to freezing and thawing?",
+    "Q2": "Can you tell me the water-cement ratio for concrete in freezing conditions?",
+    "Q3": "What’s the max water-cement ratio for frost-exposed concrete?",
+    "Q4": "What water-cement ratio should we use for concrete in cold environments?",
+    "Q5": "What is the specified water-cement ratio for cold-exposed concrete?",
+    "CorrectAnswer": "The maximum water-cement ratio for concrete subject to freezing and thawing is as per CSA Class C or Class A, depending on exposure.",
+    "Keywords": ["water-cement ratio", "freezing", "CSA Class C", "CSA Class A"],
+    "PageNumber": 5
+  },
+  {
+    "Q1": "What are the slump limits for various concrete applications?",
+    "Q2": "What slump values are specified for different concrete types?",
+    "Q3": "Can you confirm the maximum slump for this job?",
+    "Q4": "What are the slump guidelines mentioned for the concrete?",
+    "Q5": "What slump limits are stated in the document?",
+    "CorrectAnswer": "The slump limits are: Foundations, walls, slabs – 70 mm; Toppings – 60 mm; Other concrete – 80 mm; Parking structures – 40 mm.",
+    "Keywords": ["slump", "concrete", "foundations", "walls", "slabs"],
+    "PageNumber": 5
+  },
+  {
+    "Q1": "What are the air entrainment requirements for concrete?",
+    "Q2": "Can you tell me about the air-entraining agent used?",
+    "Q3": "What is the air-entraining requirement for this concrete?",
+    "Q4": "What does the document specify about air entrainment?",
+    "Q5": "What air-entraining agent should we be using?",
+    "CorrectAnswer": "Concrete subject to cycles of freezing and thawing requires an Air Entraining Agent as per CSA standards.",
+    "Keywords": ["air entrainment", "freezing", "CSA standards"],
+    "PageNumber": 5
+  },
+  {
+    "Q1": "What are the curing requirements for concrete?",
+    "Q2": "How should we cure the concrete as per the document?",
+    "Q3": "What curing process is recommended for the concrete?",
+    "Q4": "What are the curing instructions for the concrete?",
+    "Q5": "What curing method should we use as per the specs?",
+    "CorrectAnswer": "Cure concrete surfaces by methods such as pounding, continuous sprinkling, absorptive covering, or fog spray, followed by curing paper, for at least 7 days.",
+    "Keywords": ["curing", "pounding", "sprinkling", "absorptive covering", "curing paper"],
+    "PageNumber": 10
+  },
+  {
+    "Q1": "What strength test procedure is outlined for concrete?",
+    "Q2": "How should we conduct strength tests for the concrete?",
+    "Q3": "What is the process for strength testing the concrete?",
+    "Q4": "What are the steps for concrete strength testing?",
+    "Q5": "What does the document say about concrete strength tests?",
+    "CorrectAnswer": "Strength tests involve providing three cylinders for each test, one tested at 7 days and two at 28 days, following CSA standards.",
+    "Keywords": ["strength test", "cylinders", "CSA standards", "7 days", "28 days"],
+    "PageNumber": 9
+  },
+  {
+    "Q1": "What type of grout is specified for exposed surfaces?",
+    "Q2": "What kind of grout should be used for exposed concrete?",
+    "Q3": "Which grout type is mentioned for exposed areas?",
+    "Q4": "What grout are we using on exposed surfaces?",
+    "Q5": "Can you confirm the grout type for exposed surfaces?",
+    "CorrectAnswer": "Only non-metallic grout is to be used for exposed surfaces subject to staining.",
+    "Keywords": ["non-metallic grout", "exposed surfaces", "staining"],
+    "PageNumber": 4
+  },
+  {
+    "Q1": "What type of curing-sealing compound is recommended?",
+    "Q2": "What compound should we use for curing and sealing?",
+    "Q3": "What is the curing-sealing compound specified?",
+    "Q4": "Can you tell me the type of curing-sealing compound to use?",
+    "Q5": "What does the document specify for curing and sealing concrete?",
+    "CorrectAnswer": "The curing-sealing compound should be a clear lacquer type liquid conforming to ASTM C309, which does not darken or discolor the concrete.",
+    "Keywords": ["curing-sealing compound", "ASTM C309", "clear lacquer"],
+    "PageNumber": 4
+  },
+  {
+    "Q1": "What are the standards for the cement mix proportions?",
+    "Q2": "What guidelines are provided for cement mix ratios?",
+    "Q3": "What cement mix proportions are required here?",
+    "Q4": "What are the mix ratio requirements for the concrete?",
+    "Q5": "Can you confirm the cement mix proportions for this job?",
+    "CorrectAnswer": "Mix proportions must conform to CAN/CSA-A23.1, Section 14, ensuring specified strength, workability, and durability.",
+    "Keywords": ["cement mix", "proportions", "CAN/CSA-A23.1", "strength", "workability", "durability"],
+    "PageNumber": 5
+  },
+  {
+    "Q1": "What corrosion inhibitor is specified for ramped slab concrete?",
+    "Q2": "What inhibitor should we use for ramped concrete?",
+    "Q3": "What’s the specified corrosion inhibitor for ramps?",
+    "Q4": "Can you confirm the corrosion inhibitor for ramped slabs?",
+    "Q5": "What corrosion inhibitor does the document mention for ramped concrete?",
+    "CorrectAnswer": "Corrosion inhibitors for ramped slab concrete must follow CSA S413-07 recommendations.",
+    "Keywords": ["corrosion inhibitor", "ramped slabs", "CSA S413-07"],
+    "PageNumber": 5
+  },
+  {
+    "Q1": "What kind of joints are required for slabs on grade?",
+    "Q2": "What does the document say about joints for slabs on grade?",
+    "Q3": "What type of joints should we use in slabs on grade?",
+    "Q4": "What joints are mentioned for slabs on grade?",
+    "Q5": "Can you confirm the joint details for slabs on grade?",
+    "CorrectAnswer": "Saw-cut joints should be placed in slabs on grade, generally on column lines, forming square sections not exceeding 5 meters in length or width.",
+    "Keywords": ["saw-cut joints", "slabs on grade", "5 meters", "square sections"],
+    "PageNumber": 9
+  },
+  {
+    "Q1": "What is the premixed grout strength requirement?",
+    "Q2": "What strength should the premixed grout achieve?",
+    "Q3": "What’s the specified strength for premixed grout?",
+    "Q4": "Can you confirm the required strength for premixed grout?",
+    "Q5": "What strength is mentioned for premixed grout in the document?",
+    "CorrectAnswer": "The premixed grout must achieve a minimum strength of 40 MPa at 28 days.",
+    "Keywords": ["premixed grout", "40 MPa", "28 days"],
+    "PageNumber": 4
+  },
+  {
+    "Q1": "What is the specified strength for dry packed grout?",
+    "Q2": "What’s the strength requirement for dry packed grout?",
+    "Q3": "How strong does the dry packed grout need to be?",
+    "Q4": "Can you confirm the strength requirement for dry packed grout?",
+    "Q5": "What strength is specified for dry packed grout in the document?",
+    "CorrectAnswer": "Non-premixed dry packed grout must have a minimum strength of 30 MPa at 28 days.",
+    "Keywords": ["dry packed grout", "30 MPa", "28 days"],
+    "PageNumber": 4
+  }
+]
