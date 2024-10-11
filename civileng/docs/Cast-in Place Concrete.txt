@@ -1,0 +1,285 @@
+2050 Kipling Ave., Etobicoke Section 03 30 00
+CAST– IN PLACE CONCRETE
+1
+NCK Engineering Ltd.
+PART 1 - GENERAL
+1.1 General Requirement
+.1 Comply with the applicable requirements of Division 1.
+1.2 Work Furnished and Installed
+.1 Plain and reinforced concrete
+.2 Formwork
+.3 Grout under base plates
+1.3 Work Installed but Furnished by Other Sections
+.1 Anchor bolts Section 05 12 23
+.2 Embedded items, sleeves, boxes Divisions 22, 23 and 26
+.3 Shelf angles, wall plates and base plates anchored
+into concrete members Section 05 12 23
+1.4 Work Furnished but not Installed
+.1 Concrete and reinforcement bars to masonry trade.
+1.5 Related Work Specified Elsewhere
+Concrete Formwork Section 03 10 00
+Concrete Reinforcement Section 03 20 00
+Structural Steel Section 05 12 23
+Steel Deck Section 05 31 00
+Insulation Section 07 20 00
+Excavating, Trenching and Backfilling Section 31 23 10
+2050 Kipling Ave., Etobicoke Section 03 30 00
+CAST– IN PLACE CONCRETE
+2
+NCK Engineering Ltd.
+1.6 Codes and Standards
+.1 Do cast-in-place concrete work in accordance with the OBC 2012 designated
+Editions of CAN/CSA-A23.1 and testing in accordance with CAN/CSA-A23.2, unless otherwise noted.
+.2 Comply with the requirements of the Ontario Building Code 2012, and The Occupational Health and Safety Act, and Regulations for Construction Projects, latest issue including all amendments and revisions.
+.3 Keep the following references in the project field office: CAN/CSA-A23 and CAN/CSA-A23.2, Reinforcing Steel Institute of Ontario - Manual of Standard Practice and CAN/CSA-S269.3.
+1.7 Source Quality Control
+.1 Before concrete is placed, supply the Consultant with details of the mix proposed for each class of concrete; giving proportions of cement, coarse
+In addition, fine aggregate, type and amount of admixtures or air entraining
+agents and water-cement ratio. Certification that compressive strength,
+slump, air-entrained content and other specified properties will be met.
+.2 Provide Consultant with mill test reports properly correlated to the
+reinforcement.
+1.8 Quality Assurance
+.1 Obtain concrete from a member of the Ready-Mixed Concrete Association of
+Ontario that has been issued a seal of Special Quality Concrete who can
+guarantee to produce concrete with the coefficient of variation less than 12
+percent.
+.2 Engage an organization with at least 5 years of specialized experience to
+undertake floor finishing. Submit substantiating references if asked.
+1.9 Site Conditions
+.1 Determine any potential interference with existing services and protect
+from disruption and damage.
+2050 Kipling Ave., Etobicoke Section 03 30 00
+CAST– IN PLACE CONCRETE
+3
+NCK Engineering Ltd.
+PART 2 - PRODUCTS
+2.1 Concrete Material
+.1 Cement: Normal Portland cement to CAN/CSA-A5, Type 10.
+.2 Use only one brand of cement for architectural concrete.
+.3 Mixing water: Clear and potable to CAN/CSA-A23.1
+.4 Fine aggregate: Natural sand to CAN/CSA-A23.1
+.5 Coarse aggregate: crushed stone or gravel to CAN/CSA-A23.1, suitable
+for NBC type N concrete. Maximum size 20 mm except 12 mm for toppings.
+.6 Low density aggregate for light weight concrete to CAN/CSA-A23.1.
+2.2 Admixtures
+.1 Comply with manufacturer's instructions.
+.2 Obtain admixtures from single source.
+.3 Air Entraining admixture: to CAN/CSA-A266.1
+.4 Non-Retarding Water Reducing Agent: CAN/CSA-A266.2, Type WN
+.5 Corrosion inhibitor: Provide DCI or MCI concrete admixtures as per CAN/CSA-S413 recommendations
+2.3 Grouts
+.1 Premixed grout: Minimum strength 40 MPa at 28 days. Install in
+accordance with manufacturer's recommendations.
+.2 Non premixed dry packed grout: 1:3 (cement: sand) and minimum water.
+Minimum strength 30 MPa at 28 days.
+.3 Use only non-metallic grout in exposed surfaces subject to staining.
+2050 Kipling Ave., Etobicoke Section 03 30 00
+CAST– IN PLACE CONCRETE
+4
+NCK Engineering Ltd.
+2.4 Accessories
+.1 Comply with manufactures' instructions.
+.2 Water-stop:Polyvinyl Chloride, PVC To CSGB 41-GP-35M, Types 1 and 3
+.3 Adjustable wedge anchor - Peerless Wedge, anchor insert malleable Acrow-Richmond, iron Lintel Anchor, Superior Concrete
+.4 Drilled concrete anchor - Acrow-Richmond Wej-it
+or Parabolt Hilti Kwik-bolt
+.5 Non-slip nosing insert - Fine Aluminium oxide
+strips, 6 mm wide x 10 mm deep.
+.6 Premoulded joint filler - Bituminous impregnated
+fibre board to ASTM D1751
+.7 Membrane adhesive- As recommended by membrane manufacturer.
+.8 Saw cut joint filler - Sika Canada, Loadflex
+2.5 Curing-Sealing Compound
+.1 Clear lacquer type liquid conforming to ASTM C309. It shall not darken or
+discolour concrete surface, not impair bonding of any material laid over
+surface and shall be compatible with such materials.
+2.6 Floor Surface Hardener
+.1 Comply with the manufacturer's instructions.
+.2 Non-metallic, natural grey colour:
+Mastercon - Master Builders Co. Ltd.
+(Curing-sealing compound-Masterseal)
+Diamag 7 - Sika Canada
+(Curing-sealing compound-Clear Florseal)
+2.7 Proportioning
+2050 Kipling Ave., Etobicoke Section 03 30 00
+CAST– IN PLACE CONCRETE
+5
+NCK Engineering Ltd.
+.1 Conform to CAN/CSA-A23.1, Section 14. Select mix
+proportions to provide the specified strength, workability and durability.
+.2 Minimum cement content for exposed concrete slabs:
+Foot traffic only - 285 kg/m3
+Vehicular traffic with - 320 kg/m3
+rubber wheels
+.4 Maximum water: cement ratio for concrete subject
+to freezing and thawing:
+- CSA Class C or Class A, according to exposure
+.5 Use the following chemical admixtures:
+All concrete - Water Reducing Agent
+Concrete subject to cycles
+of freezing and thawing - Air Entraining Agent
+Obtain approval of the Architect for the use of other admixtures prior to use.
+Main parking garage ramp. Corrosion inhibiter
+.6 Maximum Slumps:
+Foundations, wall and slabs - 70 mm
+Toppings - 60 mm
+Other concrete - 80 mm
+Parking structures - 40 mm
+2.8 Production
+.1 Use ready-mixed concrete.
+.2 Use corrosion inhibitors for ramped slab concrete as per CSA S413-07 recommendations.
+.3 Heat concrete and deliver at a temperature between +13C and +27C
+whenever outdoor temperature is less than +5C.
+PART 3 - EXECUTION
+2050 Kipling Ave., Etobicoke Section 03 30 00
+CAST– IN PLACE CONCRETE
+6
+NCK Engineering Ltd.
+3.1 Workmanship
+.1 Comply with the requirements of CAN/CSA-A23.1 and the specific
+requirements of the Contract.
+.2 Ensure that no water is present on foundation beds where footings and
+other concrete work is to be placed. Place concrete only on frost-free
+ground. Remove previously frozen bearing surfaces.
+.3 Obtain Consultant's approval prior to placing concrete.
+.4 Ensure that reinforcement and inserts are not disturbed during concrete
+placement.
+.5 Do not place load on new concrete until authorized by Consultant.
+.6 Bring to the attention of the Consultant any defects or deficiencies in the
+Work which may occur during construction together with a proposal for
+remedy. Consultant will decide what corrective action may be taken.
+3.2 Records
+.1 Maintain accurate records of poured concrete items to indicate date,
+location of pour, quality, air temperature and test samples taken. Record
+the date of removal of each section of formwork.
+.2 Record on drawings the founding elevations of all footings and variations
+of footing work from that indicated on drawings.
+3.3 Cooperation
+.1 Cooperate with all engaged on the Project. Exchange with related trades,
+shop drawings and other data required to coordinate and schedule the
+Work. Notify other trades as to when items which are to be installed by
+they are to be set and protect these items after installation.
+.2 Give the Consultant at least 24 hours advance notice of the time when
+completed reinforcement will be ready for review.
+.3 Supply and install grout for base and bearing plates. Coordinate
+2050 Kipling Ave., Etobicoke Section 03 30 00
+CAST– IN PLACE CONCRETE
+7
+NCK Engineering Ltd.
+installation with the Structural Steel trade. Grout shall completely fill
+space between plates and supports.
+.4 Cooperate with any trade applying finishes to concrete surfaces to obtain a surface which will have adequate bond. Provide chases where required.
+3.4 Examination of Work
+.1 Do not begin operations before making a thorough examination of existing conditions and the Work of related trades. Report inconsistencies before proceeding.
+3.5 Inspection and Testing
+.1 The Consultant will appoint an independent inspection and testing agency
+to undertake concrete strength tests.
+.2 Pay for the cost of inspection from the Cash Allowance, as directed by
+Consultant.
+.3 Assist the agency in its work. Notify it as to the concreting schedule.
+Provide concrete samples and standard test cylinders.
+.4 Laboratory curing and testing of samples will be carried out in accordance
+with the applicable CSA Standards. The agency will report to the
+Consultant with copies to Structural Subconsultant, the Contractor and
+the Municipal Authorities. Reports will be made on a form similar to
+Appendix C of CAN/CSA-A23.2 stating the location of concrete to which
+tests relate and commenting on abnormal results and conditions.
+.5 Provide a group of three cylinders for each standard strength test. One
+specimen will be tested at 7 days and two at 28 days.
+.6 Provide one additional site cured cylinder for testing at 7 days when
+concrete is placed under cold weather conditions.
+.7 Take samples at the discharge end of the pipe when concrete is pumped.
+3.6 Rejected Work
+.1 Do not deliver to the site materials which are known not to meet the
+2050 Kipling Ave., Etobicoke Section 03 30 00
+CAST– IN PLACE CONCRETE
+8
+NCK Engineering Ltd.
+requirements of the Specifications. If rejected after delivery they shall be
+immediately removed.
+.2 Where review reveals materials or workmanship which appear to have
+failed to meet the specified quality or tolerances, the Consultant shall
+have the authority to order additional curing; to have tests made of in-situ
+concrete, concrete cores, reinforcement or other materials; to order a
+structural analysis of the existing elements and to load test the structure.
+All such work will be carried out in order to assist in determining whether
+the structure may, in the opinion of the Architect be accepted, with or
+without strengthening or modification. Testing shall meet the requirements
+of the Ontario Building Code. All expense incurred shall be chargeable to
+the Contractor regardless of the results.
+3.7 Quality Control On-Site
+.1 Make all required field measurements.
+.2 Do not close deep forms until reinforcement has been reviewed.
+.3 Ensure that reinforcement is kept free from dirt, grease, loose mill scale
+and rust. Ensure that reinforcement is complete, adequately tied and
+properly positioned for cover in advance of the time scheduled for casting
+concrete.
+.4 Make available to the Consultant, documents to verify that the concrete
+supplier is qualified to supply ready-mixed concrete and on to review
+proposed concrete mix design.
+.5 Make one standard strength test for each 100 m3, but not less than one
+test, for each class of concrete placed each day. Store cylinders in metal
+lined curing boxes maintained at a temperature of +10`C until shipped to the testing laboratory. Store additional cylinder required for cold weather or hot weather conditions adjacent to Work for 7 days.
+.6 Conduct one standard air entrainment test for each 50 m3 of air-entrained
+concrete or portion thereof placed each day.
+.7 Make slump tests with each standard strength test and when so directed
+by Consultant.
+2050 Kipling Ave., Etobicoke Section 03 30 00
+CAST– IN PLACE CONCRETE
+9
+NCK Engineering Ltd.
+3.8 Joints
+.1 Construction Joints:
+.1 Provide construction joints where specified or shown on the drawings.
+Locate and make other joints so as not to impair the required strength of
+the structure. Joints are subject to the review of the Architect.
+.2 Unless otherwise shown, maximum distances between construction joints
+are:
+Walls - 10 m, or 20 m alternating with control joints at same
+spacing.
+Slabs on grade - 7 m, or 20 m with sawcut joints at 5 m centres.
+.2 Isolation Joints:
+.1 Provide 6 mm thick premoulded asphalt impregnated joint filler of the same depth as the thickness of the concrete wherever slabs on grade abut foundation walls, columns and piers.
+.3 Saw-cut Joints:
+.1 Saw-cut joints in slabs on grade should generally occur on column lines
+and on intermediate lines which result in panels of approximately square
+sections. Sections shall not exceed 5 m in length or width.
+.2 Make saw-cuts 3 mm wide and 30 mm deep as soon as the concrete can
+be cleanly cut and after shrinkage cracks can form. Not less than 21 days
+after casting, fill all saw cuts with polysulfide joint filler. Joints shall be
+clean and dry when filled.
+3.9 Placement of Concrete
+.1 Remove water from excavations before placing concrete therein.
+.2 Convey concrete from mixer to place of final deposit by methods which
+will prevent aggregation of materials and change of concrete qualities.
+Time for this operation shall not exceed 30 minutes. Deposit concrete as
+close as possible to its final position.
+2050 Kipling Ave., Etobicoke Section 03 30 00
+CAST– IN PLACE CONCRETE
+10
+NCK Engineering Ltd.
+3.10 Slabs on Grade
+.1 Wet the subgrade surface by sprinkling before placement of concrete.
+.2 See Drawings for thickness of concrete and slab reinforcing.
+.3 Refer to Architectural Drawings for slab depressions, slopes and
+finishes. Slope floors to drains.
+3.11 Surface Finishing
+.1 Honeycomb:
+In locations where the repair of honeycomb is approved, cut out defective areas and fill the space with a cement mortar of the same materials as the concrete. Incorporate a liquid latex bonding agent into the mix. Apply in layers not exceeding 25 mm in thickness.
+3.12 Curing and Protection
+.1 Beginning immediately after placement, protect concrete from premature drying, sunshine, excessively hot or cold temperatures, and mechanical injury. Maintain at a relatively constant temperature for as long as is required for hydration of the cement and curing of the concrete. Provide adequate moisture under dry conditions by wetting subgrade and surrounding construction as appropriate.
+.2 Minimize moisture loss from surfaces placed against wooden forms, or plastic and metal forms exposed to heating by the sun, by keeping the forms wet until they can be safely removed. If forms are removed in less than 7 days, curing shall be continued by one of the wet curing methods specified for surfaces not in contact with forms.
+.3 Select curing methods best suited to the ambient conditions in which the structure is being constructed.
+.4 Cure concrete surfaces not in contact with forms by one of the following methods:
+.1 Pounding or continuous sprinkling.
+.2 Application of absorptive covering kept continuously wet.
+.3 Application of fog spray followed by a covering of curing paper lapped 150 mm and held down at all edges.
+2050 Kipling Ave., Etobicoke Section 03 30 00
+CAST– IN PLACE CONCRETE
+11
+NCK Engineering Ltd.
+.4 Application of a curing-sealing compound, where permitted, immediately after disappearance of surface water sheen. Do not use a compound unless it is compatible with any material which may be applied to or laid over the concrete surface.
+.5 Curing methods based upon keeping surfaces wet shall continue for at least seven days. Prevent intermittent drying of surfaces.
+.5 Do not pile, store or transport materials over slabs until concrete has been in place for at least 7 days.
+END OF SECTION
